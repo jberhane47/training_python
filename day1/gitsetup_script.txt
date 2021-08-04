@@ -1,0 +1,147 @@
+    1  ssh -i "jojo032021.pem" ec2-user@ec2-52-87-225-237.compute-1.amazonaws.com
+    2  ls -la
+    3  code .
+    4  word .
+    5  word
+    6  note .
+    7  note ++
+    8  note ++ .
+    9  python
+   10  python3
+   11  sudo su
+   12  python3
+   13  find / -name yohannes*
+   14  cd /Dwonloads
+   15  cd /Downloads
+   16  cd Downloads
+   17  ssh -i "jojo032021.pem" ec2-user@ec2-52-87-225-237.compute-1.amazonaws.com
+   18  ssh -i "jojo032021.pem" ec2-user@ec2-54-144-54-58.compute-1.amazonaws.com
+   19  install ansible
+   20  sudo
+   21  su 
+   22  ssh -i "jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   23  ssh -i "jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   24  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   25  ls
+   26  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   27  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   28  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   29  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   30  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   31  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   32  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   33  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   34  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   35  ssh -i "Downloads/jojo032021.pem" ec2-user@ec2-54-224-222-181.compute-1.amazonaws.com
+   36  git clone 
+   37  https://git-codecommit.us-east-1.amazonaws.com/v1/repos/johnreporedshift
+   38  git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/johnreporedshift
+   39  git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/johnreporedshift
+   40  ls
+   41  git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/johnreporedshift
+   42  git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/johnreporedshift -l
+   43  ls -la
+   44  mkdir jojotestclone
+   45  ls -i jojo*
+   46  ls 
+   47  Install git
+   48  mkdir project_name
+   49  cd project_name
+   50  git init
+   51  git add filename1 filename2
+   52  git add filename
+   53  git add jojo
+   54  touch filename
+   55  ls
+   56  touch filename1 filename2
+   57  ls
+   58  git add .
+   59  ls
+   60  git reset HEAD filename
+   61  git reset [HEAD] --filename
+   62  git branch johnbranchname
+   63  git branch john
+   64  git branch
+   65  git commit -m 'hello my snapshots'
+   66  git branch jojo
+   67  exit()
+   68  cd ..
+   69  cd ..
+   70  cd ~
+   71  cd Desktop/
+   72  clear
+   73  mkdir training_python
+   74  cd training_python/
+   75  mkdir day1
+   76  cd day1/
+   77  touch notes.txt
+   78  nano notes.txt 
+   79  cd..
+   80  cd ..
+   81  git status
+   82  git init
+   83  clear
+   84  get status
+   85  git status
+   86  git add day1
+   87  git status
+   88  clear
+   89  git status
+   90  git rm --cached
+   91  git rm --cached day1
+   92  git rm -r --cached day1
+   93  git ststus
+   94  git status
+   95  git add day1
+   96  git status
+   97  git commit
+   98  git commit
+   99  git commit -m
+  100  git commit -m "my first day work"
+  101  git log
+  102  git remote add origin https://github.com/jberhane47/training_python.git
+  103  git remote 
+  104  git push -u origin master
+  105  ls
+  106  cd day1
+  107  nano notes.txt 
+  108  cat notes.txt 
+  109  git push -u origin master
+  110  git push 
+  111  git commit
+  112  git add .
+  113  git status
+  114  git commit -m "second commit"
+  115  git push
+  116  touch hello.py
+  117  nano hello.py 
+  118  python hello.py
+  119  git add 
+  120  git add .
+  121  git commit -m "my third commit with Asabeneh"
+  122  git push 
+  123  git branch stat_script 
+  124  git branch
+  125  git checkout stat_script
+  126  get branch
+  127  git branch
+  128  ls 
+  129  touch stats.py
+  130  nano stats.py 
+  131  python stats.py
+  132  nano stats.py 
+  133  python stats.py
+  134  nano stats.py 
+  135  python stats.py
+  136  git status
+  137  git commit -m "Calculate Mean" 
+  138  git add .
+  139  git commit -m "Calculate Mean" 
+  140  git push -u origin stat_script
+  141  git log > git_script.txt
+  142  ls
+  143  cat git_script.txt 
+  144  history
+  145  history git_first_setup_script.txt 
+  146  ls
+  147  history > gitsetup_script.txt 

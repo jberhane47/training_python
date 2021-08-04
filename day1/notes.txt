@@ -1,3 +1,6 @@
+
 #this is the first dat gitsetup
 
-
+import time
+time.sleep(10)
+print('Wake up and get you dress up")

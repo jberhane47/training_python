@@ -232,10 +232,28 @@ Enter Number to calculate sum:   100
 SUM of first  100 numbers is:      2550
 10. Lists (10 points)
 •	Declare a list called mixed_data_types,put different data types and in your array and the array size should be greater than 5
+mixed_data_types = [15, 9.18, “abcd”, “ab12d”, {apple}]
 •	Declare a list variable name it companies and assign initial values Facebook, Google, Microsoft, Apple, IBM, Oracle and Amazon.
+companies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"]
 •	Print the number of companies in the list
+companies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"]
+number_of_companies = len(companies)
+print(number_of_companies)
+
 •	Print the first, middle and last company in the list
+companies[0]
+companies[3]
+companies[7]
 •	Print out each company
+print(*companies, sep = "\n")
+Facebook
+Google
+Microsoft
+Apple
+IBM
+Oracle
+Amazon
+
 •	Change companies to uppercase and print them out
 •	Print the list like a sentence: Facebook, Google, Microsoft, Apple, IBM, Oracle and Amazon are big IT companies.
 •	Check if a certain company exists in the it_companies list. If it exist return the company else return a company is _not found.
@@ -274,4 +292,8 @@ The same groups apply to both men and women. Underweight: BMI is less than 18.5 
 •	Write a function which takes any number of arguments and return the sum of the arguments
 sum_all_numbers(1, 2, 3) // -> 6
 sum_all_numbers(1, 2, 3, 4) // -> 10
+
+1/def add(*args):
+    print(sum(args))
+
 
